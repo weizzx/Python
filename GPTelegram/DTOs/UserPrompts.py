@@ -1,0 +1,2 @@
+class CustomPrompts():
+    prompts = None 

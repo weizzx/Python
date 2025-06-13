@@ -1,0 +1,2 @@
+class AiModelHandler():
+    handler = None
